@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ Реализовать простой калькулятор
+ */
+
 public class Homework1_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
